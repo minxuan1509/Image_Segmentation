@@ -6,3 +6,5 @@ Face segmentation using threshold and region based approach.
 * OpenCV
 * Spyder
 * Python
+
+Limitation on only front facing images. 
